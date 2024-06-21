@@ -66,6 +66,13 @@ cars.LicensePlate = "GR123RG"
     Successivamente, rimuovi l'ultimo elemento della proprietà "trims" da ogni auto.
 */
 
+cars.push(fuel);
+console.log(cars);
+
+delete.cars.trims;
+console.log(cars.trims);
+
+
 /* ESERCIZIO 7
     Scrivi del codice per salvare il primo elemento della proprietà "trims" di ogni auto nel nuovo array "justTrims", sotto definito.
 */
