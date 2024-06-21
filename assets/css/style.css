@@ -1,0 +1,98 @@
+
+header {
+    background-color: #222F3F;
+    padding: 1.5em 3em;
+    text-align: left;
+}
+
+#nav {
+    background-color: #354758;
+    background-size: cover;
+    background-position: left;
+    background-repeat: no-repeat;
+    color: white;
+    padding: 1em;
+    margin: 0 0 0.5em;
+    margin-left: 0em;
+    margin-right: 0em;
+  }
+
+p {
+    background-color: #F56600;
+    color: white;
+    padding: 0.5em 2em;
+    text-align: center;
+    margin: 1 1 2em;
+
+}
+
+#logo {
+    display: inline-block;
+    height: 40px;
+}
+
+main {
+    background-color: white;
+    padding: 1.5em;
+}
+
+
+#banner {
+    background-image: url(../img/bg-image.png);
+    background-size: cover;
+    background-position: center top;
+    text-align: center;
+    color: white;
+    padding-block: 0.1em;
+    margin: 0 0 0.5em;
+  }
+
+  .scheda {
+    display: inline-block;
+    vertical-align: top;
+    margin-bottom: 0.5em;
+    padding-bottom: 1.5em;
+    font-size: 1rem;
+    max-width: 25%;
+    margin: 0em;
+  }
+
+  
+.scheda img {
+    display: inline-block;
+    width: 40%;
+    min-height: 10%;
+    max-height: 30%;
+    object-fit: cover;
+    object-position: bottom;
+}
+
+.scheda .wrapper {
+    padding: 0.5em;
+}
+
+.img {
+    padding: 1em;
+    margin: 0 0 0.5em;
+    margin-left: 0em;
+    margin-right: 0em;
+}
+h4 {
+  line-height: 0.5;
+  margin: 0 0 0.5em 0;
+  text-align: center;
+}
+
+footer {
+    background-color: #354758;
+    background-position: center;
+    padding: 1.5em 3em;
+    text-align: center;
+}
+
+.pulsante {
+text-align: center;
+color: white;
+margin: 1 1 2em;
+}
+
