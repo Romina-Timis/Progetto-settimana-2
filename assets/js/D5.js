@@ -100,3 +100,5 @@ let stop = 1;
     es. [f, b, e] --> [6, 2, 5]
 */
 const charactersArray = ['g', 'n', 'u', 'z', 'd']
+
+
