@@ -59,7 +59,8 @@ const cars = [
     trims: ['life', 'style', 'r-line'],
   },
 ]
-cars.LicensePlate = "GR123RG"
+cars.LicensePlate = "GR123RG";
+console.log(cars);
 
 /* ESERCIZIO 6
     Scrivi del codice per aggiungere un nuovo oggetto in ultima posizione nell'array "cars", rispettando la struttura degli altri elementi.
@@ -90,8 +91,6 @@ const numericArray = [
   6, 90, 45, 75, 84, 98, 35, 74, 31, 2, 8, 23, 100, 32, 66, 313, 321, 105,
 ]
 let stop = 1;
-
-
 
 
 /* ESERCIZIO 10
